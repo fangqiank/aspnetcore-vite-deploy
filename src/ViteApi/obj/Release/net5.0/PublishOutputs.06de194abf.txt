@@ -1,0 +1,8 @@
+D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\bin\Release\net5.0\publish\ViteApi.exe
+D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\bin\Release\net5.0\publish\appsettings.Development.json
+D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\bin\Release\net5.0\publish\appsettings.json
+D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\bin\Release\net5.0\publish\ViteApi.dll
+D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\bin\Release\net5.0\publish\ViteApi.deps.json
+D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\bin\Release\net5.0\publish\ViteApi.runtimeconfig.json
+D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\bin\Release\net5.0\publish\ViteApi.pdb
+D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\bin\Release\net5.0\publish\Microsoft.AspNetCore.SpaServices.Extensions.dll

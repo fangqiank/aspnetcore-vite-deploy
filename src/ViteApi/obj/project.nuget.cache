@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qVDX+jd7M8OOp/0x/Uq/PKXzKO7eebNbRLa9z/NBXzpCiuCLidBQD10c9LmSpLoeLw32/FSl1GNf0GUHQQH1HA==",
+  "success": true,
+  "projectFilePath": "D:\\dotnetcore\\aspdotnetcore_vite\\src\\ViteApi\\ViteApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fangq\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.9\\microsoft.aspnetcore.spaservices.extensions.5.0.9.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

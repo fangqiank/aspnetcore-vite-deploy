@@ -22,4 +22,3 @@ D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\obj\Debug\net5.0\ViteApi.dll
 D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\obj\Debug\net5.0\ref\ViteApi.dll
 D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\obj\Debug\net5.0\ViteApi.pdb
 D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\obj\Debug\net5.0\ViteApi.genruntimeconfig.cache
-D:\dotnetcore\aspdotnetcore_vite\src\ViteApi\obj\Debug\net5.0\ViteApi.csproj.AssemblyReference.cache

@@ -36,7 +36,7 @@ const state = reactive(
 )
 
 // fetch('http://localhost:5000/test')
-fetch('/test')
+fetch('/api/test')
   .then(res => res.text())
   .then(t => state.message = t)
 
